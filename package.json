@@ -9,11 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.3",
+    "@apollo/react-hooks": "^4.0.0",
     "@next/font": "13.1.1",
+    "apollo-link-context": "^1.0.20",
+    "buffer": "^6.0.3",
     "eslint": "8.31.0",
     "eslint-config-next": "13.1.1",
+    "formik": "^2.2.9",
+    "graceful-fs": "^4.2.10",
+    "graphql": "^16.6.0",
     "next": "13.1.1",
+    "node-fetch": "^2.6.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-select": "^5.7.0",
+    "recharts": "^2.3.2",
+    "stream-browserify": "^3.0.0",
+    "sweetalert2": "^11.7.0",
+    "url": "^0.11.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.4",
+    "tailwindcss": "^3.3.2"
   }
 }
